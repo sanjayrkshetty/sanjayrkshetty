@@ -1,6 +1,6 @@
 # Sanjay R K Shetty
 
-**AI Security Researcher · Pre-Sales Security Consultant @ SISA · B.Tech Cybersecurity, MIT Bengaluru**
+**AI Security Researcher @ SISA | Adversarial ML · LLM Security · Digital Forensic & Incident Response | B.Tech Cybersecurity, MIT Bengaluru**
 
 I work at the intersection of AI and offensive security — building threat models for AI systems, researching adversarial ML, and helping organisations understand what breaks before attackers do.
 
@@ -19,8 +19,8 @@ Currently finishing my degree while doing real pre-sales security consulting at 
 ```
 AI Security          →  Adversarial ML · LLM threat modelling · AI zero-day research
 Security Testing     →  Web app · Network · API · Cloud pen testing · OWASP ZAP · VA&M
+DFIR                 →  Incident response · Digital forensics · Threat hunting · Tabletop exercises
 Compliance           →  PCI DSS v4.0 · ISO/IEC 27001 · SOC 2 · HIPAA
-DFIR                 →  Incident response · Digital forensics · Threat hunting
 ```
 
 ## Repos worth looking at
