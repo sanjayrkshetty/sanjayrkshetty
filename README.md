@@ -1,54 +1,51 @@
 # Sanjay R K Shetty
 
-**AI Security Researcher @ SISA | Adversarial ML · LLM Security · DFIR | B.Tech Cybersecurity, MIT Bengaluru '26**
+**AI Security Researcher @ SISA Information Security · Adversarial ML · LLM Security · DFIR · B.Tech Cybersecurity, MIT Bengaluru '26**
 
 I work at the intersection of AI and offensive security — building threat models for AI systems, researching adversarial ML, and helping organisations understand what breaks before attackers do.
 
-Currently finishing my degree while doing real pre-sales security consulting at [SISA Information Security](https://www.sisainfosecurity.com) — scoping pen tests, writing proposals, running discovery for ISO 27001, PCI DSS, SOC 2, and DFIR engagements.
+Pre-Sales Security Consultant at SISA: scoping pen tests, writing proposals, running discovery for ISO 27001, PCI DSS v4.0, SOC 2, HIPAA, and DFIR engagements.
+
+---
+
+## Shipped
+
+| Repo | What it is | Stack |
+|------|-----------|-------|
+| [proposal-engine](https://github.com/sanjayrkshetty/proposal-engine) | **Production 5-agent pipeline** — automates the full pre-sales cycle: discovery → scoping → pricing → adversarial critique → proposal. 6 BUs, 22 services. Live on Streamlit Cloud. | Python · Groq · Llama 3.3 · Streamlit |
+| [presales-automation](https://github.com/sanjayrkshetty/presales-automation) | Full-stack DFIR pre-sales tool — AI-generated proposals (DOCX), opportunity pipeline, Claude API with prompt caching, GAM contacts, exec dashboard | React · Express · SQLite · Claude API |
+| [claude-code-best-practices](https://github.com/sanjayrkshetty/claude-code-best-practices) | Production patterns for Claude Code — CLAUDE.md setup, security rules, token efficiency, README generator CLI, JARVIS AI dashboard | Node.js · TypeScript · Anthropic SDK |
+| [portfolio](https://github.com/sanjayrkshetty/portfolio) | Personal portfolio — dark web3 Next.js 15, multi-model AI chat (Groq + OpenRouter fallback), Vercel Edge Runtime | Next.js · TypeScript · Vercel AI SDK |
 
 ---
 
 ## Technical focus
 
 ```
-AI Security          →  Adversarial ML · LLM threat modelling · AI zero-day research
-Security Testing     →  Web app · Network · API · Cloud pen testing · OWASP ZAP · VA&M
-DFIR                 →  Incident response · Digital forensics · Threat hunting · Tabletop exercises
-Compliance           →  PCI DSS v4.0 · ISO/IEC 27001 · SOC 2 · HIPAA
-Pre-Sales            →  Discovery · Scoping · Proposal generation · Pipeline automation
+AI Security      →  Adversarial ML · LLM threat modelling · AI zero-day research · red-teaming AI systems
+Security Testing →  Web app · Network · API · Cloud pen testing · OWASP ZAP · VA&M
+DFIR             →  Incident response · Digital forensics · Threat hunting · Tabletop exercises
+Compliance       →  PCI DSS v4.0 · ISO/IEC 27001 · SOC 2 · HIPAA
+Pre-Sales        →  Discovery · Scoping · Proposal generation · Pipeline automation
 ```
-
----
-
-## Shipped
-
-| Repo | What it is |
-|---|---|
-| [presales-automation](https://github.com/sanjayrkshetty/presales-automation) | Full-stack pre-sales tool for a DFIR team — opportunity pipeline, AI-generated proposals (DOCX), follow-up drafting, GAM contacts, dashboard · React · Vite · Express · SQLite · Claude API |
-| [claude-code-best-practices](https://github.com/sanjayrkshetty/claude-code-best-practices) | Practical reference for getting production-quality output from Claude Code — patterns, security rules, token efficiency, CLAUDE.md setup |
-
----
-
-## Current Work (Q2 2026)
-
-- [ ] Ship one public AI security research output from SISA
-- [ ] 4 LinkedIn posts on adversarial ML / LLM security with technical depth
-- [ ] Read + summarize 3 adversarial ML papers
-- [ ] Portfolio site
 
 ---
 
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F97316?style=flat)
 ![Claude API](https://img.shields.io/badge/Anthropic_Claude-D4A843?style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanjayrkshetty.vercel.app-00d97e?style=flat)](https://portfolio-4p9ragwpf-sanjayrkshettys-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay_R_K_Shetty-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sanjay-r-k-shetty-1048ba245)
 
-> *Proof of work over credentials — the repos are what count.*
+> *Building proof of work before graduation. The repos are what count.*
