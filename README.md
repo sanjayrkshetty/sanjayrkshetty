@@ -58,6 +58,6 @@ Pre-Sales        →  Discovery · Scoping · Proposal generation · Pipeline au
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00d97e?style=flat)](https://sanjayrkshetty.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay_R_K_Shetty-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sanjay-r-k-shetty-1048ba245)
 [![GitHub](https://img.shields.io/badge/GitHub-sanjayrkshetty-181717?style=flat&logo=github)](https://github.com/sanjayrkshetty)
-[![Email](https://img.shields.io/badge/Email-sanjaybehaves%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sanjaybehaves@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sanjaybehaves%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sanjayrkshetty@gmail.com)
 
 > *Building proof of work before graduation. The repos are what count.*
