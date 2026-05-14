@@ -11,7 +11,7 @@
 
 I work at the intersection of AI and offensive security — building threat models for AI systems, researching adversarial ML, and helping organisations understand what breaks before attackers do.
 
-Pre-Sales Security Consultant at SISA: scoping pen tests, writing proposals, running discovery for ISO 27001, PCI DSS v4.0, SOC 2, HIPAA, and DFIR engagements.
+Pre-Sales Security Consultant at SISA: managing a **95-deal pipeline (₹10.74 cr ACV · 54.5% win rate)** across ISO 27001, PCI DSS v4.0, SOC 2, HIPAA, and DFIR engagements. 33 hot deals active.
 
 ---
 
@@ -20,7 +20,7 @@ Pre-Sales Security Consultant at SISA: scoping pen tests, writing proposals, run
 | Repo | What it is | Stack |
 |------|-----------|-------|
 | [proposal-engine](https://github.com/sanjayrkshetty/proposal-engine) | **Production 5-agent pipeline** — automates the full pre-sales cycle: discovery → scoping → pricing → adversarial critique → proposal. 6 BUs, 22 services. Live on Streamlit Cloud. | Python · Groq · Llama 3.3 · Streamlit |
-| [presales-automation](https://github.com/sanjayrkshetty/presales-automation) | Full-stack DFIR pre-sales tool — AI-generated proposals (DOCX), opportunity pipeline, Claude API with prompt caching, GAM contacts, exec dashboard | React · Express · SQLite · Claude API |
+| [presales-automation](https://github.com/sanjayrkshetty/presales-automation) | Full-stack DFIR pre-sales tool — AI-generated proposals (DOCX), **95-deal pipeline tracker**, Claude API with prompt caching, GAM contacts, exec dashboard | React · Express · SQLite · Claude API |
 | [claude-code-best-practices](https://github.com/sanjayrkshetty/claude-code-best-practices) | Production patterns for Claude Code — CLAUDE.md setup, security rules, token efficiency, README generator CLI, JARVIS AI dashboard | Node.js · TypeScript · Anthropic SDK |
 | [portfolio](https://github.com/sanjayrkshetty/portfolio) | Personal portfolio — dark web3 Next.js 15, multi-model AI chat (Groq + OpenRouter fallback), Vercel Edge Runtime | Next.js · TypeScript · Vercel AI SDK |
 
@@ -58,6 +58,6 @@ Pre-Sales        →  Discovery · Scoping · Proposal generation · Pipeline au
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00d97e?style=flat)](https://sanjayrkshetty.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay_R_K_Shetty-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sanjay-r-k-shetty-1048ba245)
 [![GitHub](https://img.shields.io/badge/GitHub-sanjayrkshetty-181717?style=flat&logo=github)](https://github.com/sanjayrkshetty)
-[![Email](https://img.shields.io/badge/Email-sanjaybehaves%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sanjayrkshetty@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sanjayrkshetty%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sanjayrkshetty@gmail.com)
 
 > *Building proof of work before graduation. The repos are what count.*
