@@ -108,6 +108,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-06-01 | Model inversion attacks can reconstruct training data — PII in fine-tune sets is a real threat |
 | 2026-06-02 | Context window poisoning: long-context models are more susceptible to late-turn instruction hijack |
 <!-- RESEARCH-LOG-END -->
 
