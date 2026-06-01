@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Pre--Sales-PCI%20DSS%20%7C%20ISO%2027001%20%7C%20SOC%202-0077B5?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjayrkshetty&color=7C3AED&style=flat-square&label=Profile+Views" />
+</p>
+
 ---
 
 I work at the intersection of AI and offensive security — building threat models for LLM systems, researching adversarial ML, and helping organisations understand what breaks before attackers do. At SISA, I scope pen tests and write proposals for PCI DSS v4.0, ISO 27001, SOC 2, HIPAA, and DFIR engagements. Shipping proof of work before graduation.
@@ -97,6 +101,10 @@ Pre-Sales        →  Discovery · Scoping · Proposal generation · Pipeline au
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanjayrkshetty&theme=tokyonight&no-frame=true&column=6&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjayrkshetty/sanjayrkshetty/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
