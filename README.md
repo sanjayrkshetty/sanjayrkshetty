@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-06-10 | Gradient-based attacks (PGD, FGSM) on vision-language models can bypass safety classifiers |
 | 2026-06-09 | Claude's Constitutional AI: model critiques and revises own outputs — red-team the constitution itself |
 | 2026-06-08 | Supply chain risk: fine-tuning on poisoned HuggingFace datasets is underexplored attack surface |
 | 2026-06-04 | RAG poisoning: attacker controls a web page the retriever indexes → arbitrary instructions injected |
