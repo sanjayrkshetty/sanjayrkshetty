@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-06-21 | Synthetic data laundering: train on AI-generated data to remove data lineage — legal grey area |
 | 2026-06-20 | Agentic AI risk: irreversible real-world actions need hard guardrails before execution |
 | 2026-06-15 | Embedding inversion: from output embeddings, reconstruct input text with ~75% token accuracy |
 | 2026-06-10 | Gradient-based attacks (PGD, FGSM) on vision-language models can bypass safety classifiers |
