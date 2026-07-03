@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-07-03 | Adversarial suffixes (Zou et al., 2023) transfer across GPT-3.5/Claude — alignment is brittle |
 | 2026-06-27 | Differential privacy in LLM training: ε=8 provides weak protection, ε=1 kills utility |
 | 2026-06-26 | Differential privacy in LLM training: ε=8 provides weak protection, ε=1 kills utility |
 | 2026-06-21 | Synthetic data laundering: train on AI-generated data to remove data lineage — legal grey area |
