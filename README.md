@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-07-05 | Tool-use abuse: LLM agents with shell access are lateral movement vectors if prompt-injectable |
 | 2026-07-04 | RAG poisoning: attacker controls a web page the retriever indexes → arbitrary instructions injected |
 | 2026-07-03 | Adversarial suffixes (Zou et al., 2023) transfer across GPT-3.5/Claude — alignment is brittle |
 | 2026-06-27 | Differential privacy in LLM training: ε=8 provides weak protection, ε=1 kills utility |
