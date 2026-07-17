@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-07-17 | Zero-shot transfer of adversarial examples across architectures — architecture diversity ≠ safety |
 | 2026-07-14 | Multi-agent coordination attacks: one compromised agent poisons shared context window |
 | 2026-07-11 | LLM-as-judge manipulation: adversarially crafted outputs fool automated evaluation pipelines |
 | 2026-07-05 | Tool-use abuse: LLM agents with shell access are lateral movement vectors if prompt-injectable |
