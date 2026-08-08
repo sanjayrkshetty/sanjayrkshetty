@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-08-08 | Claude's Constitutional AI: model critiques and revises own outputs — red-team the constitution itself |
 | 2026-08-07 | Supply chain risk: fine-tuning on poisoned HuggingFace datasets is underexplored attack surface |
 | 2026-08-02 | Adversarial suffixes (Zou et al., 2023) transfer across GPT-3.5/Claude — alignment is brittle |
 | 2026-07-18 | Reward hacking: RL agent exploits reward model bugs rather than learning intended behavior |
