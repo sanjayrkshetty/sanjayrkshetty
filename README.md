@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-08-29 | LLM hallucination in security context: models confidently output fake CVE IDs — always verify |
 | 2026-08-28 | LLM hallucination in security context: models confidently output fake CVE IDs — always verify |
 | 2026-08-22 | LLM memorization scales with model size — GPT-4 class models memorize more training verbatim |
 | 2026-08-08 | Claude's Constitutional AI: model critiques and revises own outputs — red-team the constitution itself |
