@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-09-12 | Multi-agent coordination attacks: one compromised agent poisons shared context window |
 | 2026-09-11 | Model collapse in iterative training on synthetic data — diversity decay over generations |
 | 2026-08-29 | LLM hallucination in security context: models confidently output fake CVE IDs — always verify |
 | 2026-08-28 | LLM hallucination in security context: models confidently output fake CVE IDs — always verify |
