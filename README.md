@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-09-17 | Agentic AI risk: irreversible real-world actions need hard guardrails before execution |
 | 2026-09-14 | Timing side-channels in autoregressive models can leak information about cached prefixes |
 | 2026-09-12 | Multi-agent coordination attacks: one compromised agent poisons shared context window |
 | 2026-09-11 | Model collapse in iterative training on synthetic data — diversity decay over generations |
