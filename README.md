@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-09-25 | Differential privacy in LLM training: ε=8 provides weak protection, ε=1 kills utility |
 | 2026-09-20 | Few-shot jailbreak: 3-5 examples of compliant harmful responses break alignment reliably |
 | 2026-09-18 | Synthetic data laundering: train on AI-generated data to remove data lineage — legal grey area |
 | 2026-09-17 | Agentic AI risk: irreversible real-world actions need hard guardrails before execution |
