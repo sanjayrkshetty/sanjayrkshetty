@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-09-28 | Jailbreak taxonomy: direct (DAN), indirect (data poisoning), multi-turn (erosion attacks) |
 | 2026-09-27 | Prompt injection remains #1 OWASP LLM risk — indirect injection via RAG sources is underdetected |
 | 2026-09-26 | Threat modeling LLM systems: STRIDE doesn't map cleanly — need LLM-specific threat taxonomy |
 | 2026-09-25 | Differential privacy in LLM training: ε=8 provides weak protection, ε=1 kills utility |
