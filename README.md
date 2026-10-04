@@ -116,6 +116,7 @@ Daily AI security insight — updated by JARVIS.
 <!-- RESEARCH-LOG-START -->
 | Date | Insight |
 |------|---------|
+| 2026-10-04 | Membership inference: ~60% accuracy on LLMs for detecting if a record was in training data |
 | 2026-09-30 | Model inversion attacks can reconstruct training data — PII in fine-tune sets is a real threat |
 | 2026-09-28 | Jailbreak taxonomy: direct (DAN), indirect (data poisoning), multi-turn (erosion attacks) |
 | 2026-09-27 | Prompt injection remains #1 OWASP LLM risk — indirect injection via RAG sources is underdetected |
